@@ -5,7 +5,7 @@
 2. chat room realtime
 3. backet with dynamic chart.js
 4. practical crud in react by axios
-5. creating API
+5. creating API probably doing this
 6. install the envirnment by backend express.js
 
 每個 母元件 參照功能為名。
@@ -18,3 +18,12 @@ src
     --- crud
     --- backet 
     --- chatbot
+
+
+# cmd
+1. npm install @material-ui/core
+2. npm install --save @emotion/core @emotion/styled
+3. npm install axios
+4. npm install --save styled-components
+
+i am surely doing this on there.
