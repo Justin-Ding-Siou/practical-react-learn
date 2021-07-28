@@ -27,3 +27,12 @@ src
 4. npm install --save styled-components
 
 i am surely doing this on there.
+
+
+明天製作反向工程到 recipe 中
+
+app.js
+    recipe.js
+    recipedetail.js
+
+https://www.youtube.com/watch?v=4elNZTtedxw&list=PLpPVLI0A0OkKbANASSXa_WUxkABBNJcsM&index=1
